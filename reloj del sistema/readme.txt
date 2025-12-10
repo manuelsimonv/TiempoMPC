@@ -1,0 +1,1 @@
+este código mide el tiempo entre un comando sleep, de esta forma se puede saber que tan preciso es el reloj usado por el sistema
