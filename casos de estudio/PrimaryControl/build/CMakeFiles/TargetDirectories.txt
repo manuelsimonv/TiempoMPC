@@ -1,8 +1,0 @@
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/CMakeFiles/emosqpstatic.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/CMakeFiles/example.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/CMakeFiles/edit_cache.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/src/osqp/CMakeFiles/edit_cache.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/src/osqp/CMakeFiles/rebuild_cache.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/include/CMakeFiles/edit_cache.dir
-C:/Users/Dave Figueroa/OneDrive - Universidad Técnica Federico Santa María/USM/Thesis/Primary Control IMPC/Ideal Inverter Simulation 12L/PrimaryControl/build/include/CMakeFiles/rebuild_cache.dir
